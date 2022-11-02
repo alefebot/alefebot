@@ -21,6 +21,7 @@
   <a href="https://www.youtube.com/channel/UCcoT2St9P4xe4kra27N_wlA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/alefevinicius7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:g.alefe1107@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/alefevinicius7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%FF0000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <br>
 
 </div>
